@@ -1,0 +1,47 @@
+{"timestamp":"00:00:01.027","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:01.028","source":"Server","level":"LOG","message":"  We detected TypeScript in your project and created a tsconfig.json file for you."}
+{"timestamp":"00:00:01.251","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:01:07.727","source":"Server","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:08.145","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:08.145","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:08.204","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:08.205","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:08.212","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:08.212","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:09.619","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:09.619","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:09.619","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:09.619","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:09.628","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:09.628","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:09.633","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:09.633","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:09.638","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:09.639","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:09.647","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:09.647","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:09.647","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:09.648","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:09.651","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:09.651","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:09.652","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:09.653","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:13.050","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:13.051","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:13.053","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:13.053","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:13.054","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:13.054","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:13.349","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:13.349","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:13.349","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:13.350","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:13.350","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:13.350","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:14.873","source":"Server","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:15.127","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:15.128","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:15.128","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\\u001b[39m\" \"\\u001b[2m(app/components/BiopunkWorld.tsx:35:27)\\u001b[22m\""}
+{"timestamp":"00:01:15.128","source":"Browser","level":"WARN","message":"\u001b[33mTHREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.\u001b[39m"}
+{"timestamp":"00:01:15.129","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
+{"timestamp":"00:01:15.129","source":"Browser","level":"WARN","message":"THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead."}
